@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anass-ab
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Data Science, Data Analysis, Machine Learning, Coding 
+- 🌱 I’m currently learning python,Data Science.
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me > anass95.abdali@gmail.com 
 - 😄 Pronouns: just anass 
